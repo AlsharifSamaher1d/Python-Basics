@@ -1,4 +1,4 @@
-# Python Basics — Complete Fundamentals Guide
+# Python Basics 
 
 A comprehensive, beginner-friendly Python reference with clear explanations, practical examples, and outputs in one Jupyter Notebook.
 
